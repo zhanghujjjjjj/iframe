@@ -1,9 +1,16 @@
 {
   "customComponentItems": {
-    "Iframe": {
+      "Iframe": {
       "name": "Iframe",
       "imagePath": "preview/Iframe.jpeg",
-      "description": "Iframe"
+      "description": "test description, test description, test description",
+      "itemInputs": [
+        {
+          "fieldName": "foo",
+          "type": "TEXT"
+        }
+      ]
+    }
   },
   "version": "1.0.7"
 }
