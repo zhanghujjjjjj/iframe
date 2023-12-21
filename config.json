@@ -3,14 +3,7 @@
     "Iframe": {
       "name": "Iframe",
       "imagePath": "preview/Iframe.jpeg",
-      "description": "test description, test description, test description",
-      "itemInputs": [
-        {
-          "fieldName": "foo",
-          "type": "TEXT"
-        }
-      ]
-    }
+      "description": "Iframe",
   },
-  "version": "1.0.6"
+  "version": "1.0.7"
 }
