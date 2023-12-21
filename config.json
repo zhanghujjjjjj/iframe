@@ -3,7 +3,7 @@
       "Iframe": {
       "name": "Iframe",
       "imagePath": "preview/Iframe.jpeg",
-      "description": "test description, test description, test description",
+      "description": "style={{ width: '100%', height: '100%', border: "0",borderRadius: "20"}} ",
       "itemInputs": [
         {
           "fieldName": "foo",
@@ -12,5 +12,5 @@
       ]
     }
   },
-  "version": "1.0.7"
+  "version": "1.0.8"
 }
